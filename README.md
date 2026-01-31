@@ -6,7 +6,7 @@ This repository contains my basic HTML projects.
 - Name: Mounika
 - BTech CSE Student
 - Learning HTML, CSS & Web Development
-- Interested in Digital Marketing
+- - Interested in Web Development
 
 ## Projects
 - Simple Personal Webpage
